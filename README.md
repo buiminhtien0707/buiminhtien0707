@@ -22,6 +22,6 @@
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](www.linkedin.com/in/buiminhtien0707)
-- 📧 [Email](buiminhtien070707@gmail.com
+- 📧 [Email](buiminhtien070707@gmail.com)
 
 ---
