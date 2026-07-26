@@ -13,13 +13,6 @@
 
 ---
 
-### 🛠 Tech Stack & Focus Areas
-- **AI & Automation:** AI Agents, LLM Orchestration, Prompt Engineering
-- **DevOps & Infrastructure:** Docker, CI/CD Pipelines, Git, Linux
-- **Languages:** Python, Java, SQL, C++
-- **Backend & Web:** Spring Boot, REST APIs
----
-
 ### 📫 Connect with Me
 - 💼 [LinkedIn](www.linkedin.com/in/buiminhtien0707)
 - 📧 [Email](buiminhtien070707@gmail.com)
