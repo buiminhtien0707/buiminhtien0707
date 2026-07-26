@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Minh! 👋
 
-<!--
-**buiminhtien0707/buiminhtien0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** @ British University Vietnam (BUV)  
+💼 **Software Engineer Intern** @ HTSC  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently interning at **HTSC**, gaining hands-on software development experience.
+- 🎓 Undergraduate studying **Software Engineering** at British University Vietnam (BUV).
+- 🤖 Deeply exploring **AI Agents & Agentic Workflows** (building autonomous AI systems & LLM integrations).
+- ☁️ Actively learning and practicing **DevOps & Cloud Technologies** to build scalable, automated pipelines.
+
+---
+
+### 🛠 Tech Stack & Focus Areas
+- **AI & Automation:** AI Agents, LLM Orchestration, Prompt Engineering
+- **DevOps & Infrastructure:** Docker, CI/CD Pipelines, Git, Linux
+- **Languages:** Python, Java, SQL, C++
+- **Backend & Web:** Spring Boot, REST APIs
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](www.linkedin.com/in/buiminhtien0707)
+- 📧 [Email](buiminhtien070707@gmail.com
+
+---
