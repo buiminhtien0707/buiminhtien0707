@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently interning at **HTSC**, gaining hands-on software development experience
+- 🔭 Finishing 3 months internship at **HTSC**, gaining hands-on software development experience
 - 🎓 Undergraduate studying **Software Engineering** at British University Vietnam (BUV)
 - 🤖 Deeply exploring **AI Agents & Agentic Workflows** 
 - ☁️ Actively learning and practicing **DevOps & Cloud Technologies**
