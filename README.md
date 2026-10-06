@@ -1,7 +1,6 @@
 # Hi there, I'm Minh! 👋
 
-🎓 **Software Engineering Student** @ British University Vietnam (BUV)  
-💼 **Software Engineer Intern** @ HTSC  
+🎓 **Software Engineering Student** @ British University Vietnam (BUV)   
 
 ---
 
